@@ -43,8 +43,7 @@ body.dark-mode {
 body.dark-mode header,
 body.dark-mode footer,
 body.dark-mode .profile-section,
-body.dark-mode .section, 
-body.darkmode h2{
+body.dark-mode .section{
     background-color: #0f172a;
     color: royalblue;
 }
