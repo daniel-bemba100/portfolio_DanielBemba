@@ -38,6 +38,9 @@ header h1 {
 body.dark-mode {
     background-color: #1e293b;
     color:blue;
+    h2{
+        color:blue
+    }
 }
 
 body.dark-mode header,
